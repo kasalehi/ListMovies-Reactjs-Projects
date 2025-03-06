@@ -1,0 +1,28 @@
+.new-movie-form label ,
+.new-movie-form input {
+  display: block;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  padding-top: 20px;
+  padding: 2px;
+  font-size: large;
+  
+}
+.new-movie-form button {
+    background-color: rgb(57, 156, 57);
+    color: white;
+    font-size: large;
+    margin: 2px 2px 2px 2px;
+    padding: 5px 5px 5px 5px;
+}
+
+.new-movie-form select{
+  background-color: rgba(236, 236, 238, 0.5);
+  color: white;
+  font-size: large;
+  margin: 2px;
+  padding: 5px;
+  color: black;
+}
